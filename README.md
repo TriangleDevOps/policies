@@ -29,10 +29,9 @@ orientation, disability, physical appearance, body size, race, age or religion.
 We do not tolerate harassment of community participants in any form.
 
 Community participants violating these rules may be sanctioned or expelled from
-the community at the discretion of the organizers. Our anti-harassment policy
-can be found at:
+the community at the discretion of the organizers.
 
-[https://github.com/TriangleDevOps/policies/blob/master/code-of-conduct.md][conduct]
+Our anti-harassment policy can be found at: [https://github.com/TriangleDevOps/policies/blob/master/code-of-conduct.md][conduct]
 
 ## Updates
 
