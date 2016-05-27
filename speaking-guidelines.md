@@ -29,9 +29,12 @@ that end, we kindly ask as you prepare that you:
   audience. They're fine to use within the boundaries of the Code of Conduct,
   but make sure you read the room to see if everyone's catching on. When in
   doubt, explain the meaning behind the GIF, meme or memespeak.
+* Avoid entirely any sexualized text, images, videos, and/or verbal
+  descriptions.
 
 If you have questions about your talk, whether it's concepts or specific
-materials, we will be happy to discuss either with you.
+materials and it's fitness for presentation to our group, we will be happy to
+discuss that with you.
 
 Technically speaking, we can generally accommodate VGA and Mini DisplayPort
 connections at the venues we use. If you need a different video connection,
@@ -60,11 +63,17 @@ introduce you. You're on!
   with the venue, but we will not always be able to to do. Generally, if you're
   running longer than an hour of speaking time, we'll give you a five minute
   warning to bring your talk to a conclusion
+  * Expect that we'll look to have your talk wrap by 8:30 PM.
+* Immediately after your talk, we generally have a little more community social
+  time, giving you a chance to interact 1-to-1 with the audience. How long is up
+  to the venue, but 10-15 minutes is typical.
 
 ## After your talk
 
 At your discretion, we would like to share the slide deck and any other
 materials from the presentation with our members. We'll link to those materials
-directly on the meeting page for your presentation.
+directly on the meeting page for your presentation. Generally, those are sent to
+us as a link over Twitter. We will provide attribution when we share your slides
+with our members through the @TriangleDevOps Twitter account.
 
 Thank you so much for presenting to us!
