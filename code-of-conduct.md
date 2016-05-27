@@ -5,8 +5,8 @@ for everyone, regardless of gender, gender identity and expression, sexual
 orientation, disability, physical appearance, body size, race, age or religion.
 We do not tolerate harassment of community participants in any form.
 
-Community participants violating these rules may be sanctioned or expelled from
-the community at the discretion of the organizers.
+Community participants and organizers violating these rules may be sanctioned or
+expelled from the community at the discretion of the organizing team.
 
 Harassment includes, but is not limited to:
 

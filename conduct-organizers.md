@@ -20,10 +20,14 @@ be reported to Mark Mzyk as soon as practical. The report should include:
 
 Presentations or similar events should not be stopped for one-time gaffes or
 minor problems, although an organizer should speak to the presenter afterward.
+
 However, organizers should take immediate action to politely and calmly stop any
 presentation or event that repeatedly or seriously violates the anti-harassment
-policy. For example, simply say, "I'm sorry, this presentation cannot be
-continued at the present time" with no further explanation.
+policy. Sexualized content (text or imagery) is grounds to immediately halt a
+presentation. Personal attacks would be another.
+
+Simply say, "I'm sorry, this presentation cannot be continued, it
+is in violation of our Code of Conduct." with no further explanation.
 
 ## Taking reports
 
