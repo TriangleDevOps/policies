@@ -33,7 +33,7 @@ that end, we kindly ask as you prepare that you:
   descriptions.
 
 If you have questions about your talk, whether it's concepts or specific
-materials and it's fitness for presentation to our group, we will be happy to
+materials and its fitness for presentation to our group, we will be happy to
 discuss that with you.
 
 Technically speaking, we can generally accommodate VGA and Mini DisplayPort
