@@ -53,7 +53,7 @@ make them all better.
 
 * Talking to the on-site organizers or organizers, who will introduce themselves
   at the beginning any event
-* Emailing the organizing team [FIXME: email address for contact]
+* Emailing the organizing team (triangledevops at gmail.com)
 
 When taking a report in person, our staff will work to ensure you are safe and
 cannot be overheard. You won't be asked to confront anyone and we won't tell
