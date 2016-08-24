@@ -18,7 +18,7 @@ Triangle DevOps organizers.
 
 ## Policies
 
-* [Code of Conduct][conduct] (In progress)
+* [Code of Conduct][conduct]
 * [Guidelines for Speakers][speakers]
 
 ## High-level code of conduct
