@@ -5,15 +5,17 @@ Triangle DevOps organizers.
 
 ## Organizers
 
-* Mark Mzyk
-  * GitHub: mmzyk
-  * mmzyk (at) programmersparadox (dot) com
+* Chris Short
+  * GitHub: [chris-short](https://github.com/chris-short)
+  * Twitter: [@ChrisShort](https://twitter.com/ChrisShort)
+  * chris (at) chrisshort (dot) net
+* Chris Bailey
 * Doug Hairfield
 * Magnus Hedemark
 * Mark Imbriaco
 * Vladimir Vuskin
 * Nathan L. Walls
-  * GitHub: base10
+  * GitHub: [base10](https://github.com/base10)
   * nathan (at) wallscorp (dot) us
 
 ## Policies
