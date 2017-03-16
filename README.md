@@ -11,10 +11,10 @@ Triangle DevOps organizers.
   * chris (at) chrisshort (dot) net
 * Chris Bailey
   * cbailey119 (at) outlook (dot) com
-* Mark Imbriaco
 * Nathan L. Walls
   * GitHub: [base10](https://github.com/base10)
   * nathan (at) wallscorp (dot) us
+* Magnus Hedemark
 * Vladimir Vuskin
 
 ## Policies
