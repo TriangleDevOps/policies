@@ -85,7 +85,6 @@ public domain, no credit and no open licensing of your version is required.
 * Please see the [Additional Resources][add-rec] document
 
 [organizers]: conduct-organizers.md
-[add-rec]: additional-resources.md
 [more]: http://geekfeminism.wikia.com/wiki/Conference_anti-harassment
 [404coc]: https://github.com/tech404/CoC
 [cc-by]: http://creativecommons.org/licenses/by/3.0/deed.en_US
