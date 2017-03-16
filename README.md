@@ -6,17 +6,16 @@ Triangle DevOps organizers.
 ## Organizers
 
 * Chris Short
-  * GitHub: [chris-short](https://github.com/chris-short)
   * Twitter: [@ChrisShort](https://twitter.com/ChrisShort)
+  * GitHub: [chris-short](https://github.com/chris-short)
   * chris (at) chrisshort (dot) net
 * Chris Bailey
-* Doug Hairfield
-* Magnus Hedemark
+  * cbailey119 (at) outlook (dot) com
 * Mark Imbriaco
-* Vladimir Vuskin
 * Nathan L. Walls
   * GitHub: [base10](https://github.com/base10)
   * nathan (at) wallscorp (dot) us
+* Vladimir Vuskin
 
 ## Policies
 
@@ -46,3 +45,4 @@ a review.
 
 [conduct]: code-of-conduct.md
 [speakers]: speaking-guidelines.md
+[add-rec]: conduct-resources.md
