@@ -89,3 +89,4 @@ public domain, no credit and no open licensing of your version is required.
 [404coc]: https://github.com/tech404/CoC
 [cc-by]: http://creativecommons.org/licenses/by/3.0/deed.en_US
 [cc0]: http://creativecommons.org/publicdomain/zero/1.0/
+[add-rec]: conduct-resources.md
