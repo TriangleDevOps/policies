@@ -5,17 +5,10 @@ Triangle DevOps organizers.
 
 ## Organizers
 
-* Chris Short
-  * Twitter: [@ChrisShort](https://twitter.com/ChrisShort)
-  * GitHub: [chris-short](https://github.com/chris-short)
-  * chris (at) chrisshort (dot) net
 * Chris Bailey
-  * cbailey119 (at) outlook (dot) com
-* Nathan L. Walls
-  * GitHub: [base10](https://github.com/base10)
-  * nathan (at) wallscorp (dot) us
-* Magnus Hedemark
-* Vladimir Vuskin
+  * [Twitter](https://twitter.com/seebails)
+  * [GitHub](https://github.com/nonstickzan)
+  * [Email](mailto:chris@triangledevops.com)
 
 ## Policies
 
